@@ -1,0 +1,1190 @@
+[
+   {
+      "type":"Image",
+      "element_id":"8143563287fe6edc04a879fc3f5a3ec2",
+      "text":"FAKULTA EKONOMICKÁ > ZÁPADOČESKÉ UNIVERZITY V PLZNI",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"39a77140e57f98e3365988f77b05746d",
+      "text":"Zpráva o přijímacím řízení na FEK ZČU za rok 2023/2024",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"69de13633bbb96f3748c84dc946abc1b",
+      "text":"1. Vnitřní normy FEK ZČU k přijímacímu řízení pro rok 2023/2024",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"17275005a6a510113df6bcb11f361647",
+      "text":"Vyhlášky děkanky FEK ZČU:",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"69de13633bbb96f3748c84dc946abc1b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"ListItem",
+      "element_id":"ec9813485502c3132672c558467d31ba",
+      "text":"• č. 9DV/2022 - Přijímání ke studiu do bakalářských studijních programů na Fakultě ekonomické ZČU pro akademický rok 2023/2024",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"69de13633bbb96f3748c84dc946abc1b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"ListItem",
+      "element_id":"a453e572f19dea1dafe7e596b6fcfc9c",
+      "text":"• č. 10DV/2022 - Přijímání ke studiu do navazujících magisterských studijních programů na Fakultě ekonomické ZČU pro akademický rok 2023/2024",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"69de13633bbb96f3748c84dc946abc1b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"ListItem",
+      "element_id":"d54a82f80a0245b5c6c8b399d2a4558c",
+      "text":"• č. 11DV/2022 - Přijímání ke studiu do doktorských studijních programů na Fakultě ekonomické ZČU pro akademický rok 2023/2024",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"69de13633bbb96f3748c84dc946abc1b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"ListItem",
+      "element_id":"6872641acbfa02dd014e67ca35a25356",
+      "text":"• č. 1DV/2023 - Úprava podmínek přijímacího řízení Fakultě ekonomické ZČU pro akademický rok 2023/2024 pro cizince dle zákona č. 67/2022",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"69de13633bbb96f3748c84dc946abc1b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"ListItem",
+      "element_id":"0eb2187cf6a406eba29f2870ecc95ea2",
+      "text":"• č. 3DV/2023 – Druhé kolo přijímacího řízení pro akademický rok 2023/2024 do bakalářských studijních programů",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"69de13633bbb96f3748c84dc946abc1b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"ListItem",
+      "element_id":"ee9e00bc2c320239b52549efb7655573",
+      "text":"• č. 4DV/2022 - Druhé kolo přijímacího řízení pro akademický rok 2023/2024 do navazujících magisterských programů",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"69de13633bbb96f3748c84dc946abc1b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"ListItem",
+      "element_id":"bef60191b9a12e8fb4485696dcbaa6e4",
+      "text":"• č. 5DV/2023 - Druhé kolo přijímacího řízení pro akademický rok 2023/2024 do doktorských studijních programů",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"69de13633bbb96f3748c84dc946abc1b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"c3fb4d958e3c6975875301d424b098de",
+      "text":"2. Forma přijímací zkoušky",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"34404846d7749540e23e220d5e755807",
+      "text":"Bakalářské studium Uchazeči byli přijímáni bez přijímací zkoušky. Kritéria pro přijetí do bakalářských studijních programů bez přijímací zkoušky jsou uvedena v bodě 4 této zprávy. Podmínky přijímacího řízení stanovila vyhláška děkanky č. 9DV/2022, resp. č. 3DV/2023 v případě druhého kola.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"c3fb4d958e3c6975875301d424b098de",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"53dcbb014c24351b676ebbf88f283fa1",
+      "text":"Navazující magisterské studium Uchazeči byli přijímáni bez přijímací zkoušky. Kritéria pro přijetí do navazujících magisterských studijních programů bez přijímací zkoušky jsou uvedena v bodě 5 této zprávy. Podmínky přijímacího řízení stanovila vyhláška děkanky č. 10DV/2022, resp. č. 4DV/2023 v případě druhého kola.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"c3fb4d958e3c6975875301d424b098de",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"809bf483a5c277b112fd6ed6002d6634",
+      "text":"Doktorské studium Přijímací zkouška do doktorských studijních programů P0413D050018 Ekonomika a management a P0413D050017 Economics and Management měla formu ústní rozpravy nad zvoleným rámcovým tématem disertační práce a prověření jazykových znalostí uchazeče. Podmínky přijímacího řízení stanovila vyhláška děkanky č. 11DV/2022, resp. č. 5DV/2023 v případě druhého kola.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"c3fb4d958e3c6975875301d424b098de",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"UncategorizedText",
+      "element_id":"6b86b273ff34fce19d6b804eff5a3f57",
+      "text":"1",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":1,
+         "parent_id":"c3fb4d958e3c6975875301d424b098de",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"d8bbd9037a472d09323cfd6f46b3a1f1",
+      "text":"3. Kritéria pro úspěšné splnění přijímací zkoušky a přijetí ke studiu",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":2,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"1092ed4f03a3da19dd8b39a0428a9def",
+      "text":"Bakalářské a navazující studijní programy a obory Nerelevantní.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":2,
+         "parent_id":"d8bbd9037a472d09323cfd6f46b3a1f1",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"caebdd8ffcf6edecc5b7f128be068d40",
+      "text":"Doktorské studijní programy a obory",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":2,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"e9ce4571a09ade7be9785c07ee362066",
+      "text":"Studijní program P0413D050018 Ekonomika a management a P0413D050017 Economics and Management: Přijímací komise zhodnotila podklady, které uchazeč předložil jako součást přihlášky, a znalosti, které uchazeč prokázal při přijímací zkoušce. Na základě tohoto hodnocení předložila děkance fakulty odůvodněný návrh na přijetí, resp. nepřijetí uchazeče. Průběh přijímací zkoušky zaznamenala komise do protokolu. Přijímací zkouška do studijního programu P0413D050017 Economics and Management byla realizována v angličtině.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":2,
+         "parent_id":"caebdd8ffcf6edecc5b7f128be068d40",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"ea713167229722d9ce0cea0f94a22875",
+      "text":"4. Kritéria pro přijetí ke studiu do bakalářských studijních programů bez přijímací zkoušky",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":2,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"52e18bb1102197a0cd493bc8bfa22a05",
+      "text":"Bakalářské studium – 1. kolo přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":2,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"d448c8359a7d937032281311eb2d0dfa",
+      "text":"Uchazeči byli přijímáni bez přijímací zkoušky. Pokud uchazeč splnil podmínky stanovené vyhláškou děkanky č. 9DV/2022, čl. 5, odst. 4, fakulta uchazeče automaticky přijala do zvoleného studijního programu. Podmínkou pro automatické přijetí bylo získání minimálního počtu 35 bodů.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":2,
+         "parent_id":"52e18bb1102197a0cd493bc8bfa22a05",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"f1b8fa879770395df33d9507a6d58de1",
+      "text":"Uchazeči o studium v bakalářských studijních programech v prezenční a kombinované formě, kteří nesplnili podmínky pro automatické přijetí (čl. 5, odst. 4), byli podle vyhlášky děkanky č. 9DV/2022, čl. 5, odst. 2 přijímáni podle celkového počtu přidělených bodů v pořadí od nejlepšího (uchazeč s nejvyšším počtem bodů) až do naplnění volné kapacity zvoleného studijního programu. Uchazečům byly přidělovány body podle stanoveného vzorce za průměrný prospěch na střední škole. Počet bodů mohl být uchazeči stanoveným způsobem navýšen, pokud uchazeč doložil dobrovolné aktivity specifikované ve vyhlášce děkanky. Minimální počet bodů pro přijetí byl vyhláškou děkanky stanoven na 25 bodů. S ohledem na počet uchazečů, kteří splnili podmínky pro automatické přijetí (čl. 5, odst. 4), a s ohledem na volnou kapacitu studijních programů pro dané místo studia a formu studia, byly přijímací komisí stanoveny minimální počty bodů pro přijetí (Tabulka 1).",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":2,
+         "parent_id":"52e18bb1102197a0cd493bc8bfa22a05",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"c76c9d55d21ff24bdd6f937eb5572025",
+      "text":"Uchazeči o studium v bakalářském studijním programu Systémové inženýrství a informatika, obor Informační management, podáním přihlášky projevili výslovný souhlas s převedením do nově akreditovaného programu Informační management. Po úspěšném splnění podmínek přijímacího řízení byli uchazeči převedeni do nově akreditovaného studijního programu B0413A050049 Informační management.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":2,
+         "parent_id":"52e18bb1102197a0cd493bc8bfa22a05",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"UncategorizedText",
+      "element_id":"d4735e3a265e16eee03f59718b9b5d03",
+      "text":"2",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":2,
+         "parent_id":"52e18bb1102197a0cd493bc8bfa22a05",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"29bac29cc1ba777f3f707cf9f11c224a",
+      "text":"Tab. 1: Minimální hodnoty celkového počtu bodů pro přijetí do bakalářských studijních programů (1. kolo přijímacího řízení)",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":3,
+         "parent_id":"52e18bb1102197a0cd493bc8bfa22a05",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Table",
+      "element_id":"0fab1e8dfc1173542e4868d578ec96a0",
+      "text":"Program Místo studia Forma studia Min. počet bodů pro přijetí B0413A050027 Projektové řízení B0413A050040 Podniková ekonomika a management B0413A050040 Podniková ekonomika a management B0413A050040 Podniková ekonomika a management B0414A050002 Marketingové řízení B0414A050002 Marketingové řízení B0532A330036 Ekonomická a regionální geografie B6209 Systémové inženýrství a informatika obor Informační management Plzeň Plzeň Cheb Plzeň Cheb Plzeň Plzeň Plzeň prezenční prezenční kombinovaná kombinovaná prezenční prezenční prezenční prezenční 25 32 25 31 25 32 25 25",
+      "metadata":{
+         "text_as_html":"<table><thead><th>Program</th><th>Místo studia</th><th>Forma studia</th><th>Min. počet bodů oo pro přijetí</th></thead><tr><td>BO0413A050027 : O Projektové řízení</td><td>M Plzeň</td><td>Paa prezenční</td><td>25</td></tr><tr><td>BO413A050040 Podniková ekonomika a management</td><td>Plzeň</td><td>rezenční p</td><td>32</td></tr><tr><td>n: BO413A950040 Podniková ekonomika a management</td><td>Cheb</td><td>kombinovaná</td><td>25</td></tr><tr><td>um: BO413A950040 Podniková ekonomika a management</td><td>Plzeň</td><td>kombinovaná</td><td>31</td></tr><tr><td>80414!\\059092 Ť Marketingové řízení</td><td>Cheb</td><td>prezenční</td><td>25</td></tr><tr><td>B0414A050002 A oo Marketingové řízení</td><td>M Plzeň</td><td>Paa prezenční</td><td>32</td></tr><tr><td>BO0O532A330036 m PÁO ; Ekonomická a regionální geografie</td><td>M Plzeň</td><td>e: prezenční</td><td>25</td></tr><tr><td>B6209 Systémové inženýrství a informatika obor Informační management</td><td>Plzeň</td><td>prezenční</td><td>25</td></tr></table>",
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":3,
+         "parent_id":"52e18bb1102197a0cd493bc8bfa22a05",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"FigureCaption",
+      "element_id":"c1b309b100d0a3bc6415d2e025494db1",
+      "text":"Zdroj: Interní dokumentace FEK ZČU a IS STAG – Statistika přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":3,
+         "parent_id":"52e18bb1102197a0cd493bc8bfa22a05",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"7cda8d018f14e78d4890f2debb9ecf74",
+      "text":"Bakalářské studium – 2. kolo přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":3,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"2b5277508d79f045d472547d78ccddee",
+      "text":"Druhé kolo přijímacího řízení bylo vyhlášeno v plzeňské části fakulty pro studijní program B0532A330036 Ekonomická a regionální geografie a B0413A050049 Informační management. V chebské části fakulty bylo druhé kolo vyhlášeno pro studijní programy B0414A050002 Marketingové řízení a B0413A050040 Podniková ekonomika a management (kombinovaná forma). Podmínky přijímacího řízení byly uvedeny ve vyhlášce děkanky č. 3DV/2023.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":3,
+         "parent_id":"7cda8d018f14e78d4890f2debb9ecf74",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"15b341c99a128b042e6b61fe19033cfa",
+      "text":"Uchazeči byli dle čl. 5 odst. 2 vyhlášky pro každý studijní program seřazeni podle celkového počtu přidělených bodů v pořadí od nejlepšího (uchazeč s nejvyšším počtem bodů) a přijímáni podle tohoto pořadí až do naplnění volné kapacity studijního programu. S ohledem na kapacitu uvedených studijních programů pro dané místo a formu studia a s ohledem na počet uchazečů přihlášených do 2. kola přijímacího řízení, rozhodla přijímací komise o minimálním počtu bodů potřebných k přijetí ke studiu (Tabulka č. 2).",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":3,
+         "parent_id":"7cda8d018f14e78d4890f2debb9ecf74",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"462852a70b222471e26e68aef84a48d9",
+      "text":"Tab. 2: Minimální hodnoty celkového počtu bodů pro přijetí do bakalářských studijních programů (2. kolo přijímacího řízení)",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":3,
+         "parent_id":"7cda8d018f14e78d4890f2debb9ecf74",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Table",
+      "element_id":"d2a259e6d1806f6c7b5077a1a584c158",
+      "text":"Program Místo studia Forma studia Min. počet bodů pro přijetí B0413A050040 Podniková ekonomika a management B0414A050002 Marketingové řízení B0532A330036 Ekonomická a regionální geografie B0413A050049 Informační management Cheb Cheb Plzeň Plzeň kombinovaná prezenční prezenční prezenční 31 25 31 35",
+      "metadata":{
+         "text_as_html":"<table><thead><th>Program</th><th>Místo studia</th><th>Forma studia</th><th>Min. počet bodů oo pro přijetí</th></thead><tr><td>uh BO413A950040 Podniková ekonomika a management</td><td>Cheb</td><td>kombinovaná</td><td>31</td></tr><tr><td>8041.4A0590v(')2 Ť Marketingové řízení</td><td>Cheb</td><td>prezenční</td><td>25</td></tr><tr><td>B0532A330036 mD PARN : Ekonomická a regionální geografie</td><td>M Plzeň</td><td>e: prezenční</td><td>31</td></tr><tr><td>BO413A050043 Informační management</td><td>Plzeň</td><td>prezenční</td><td>35</td></tr></table>",
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":3,
+         "parent_id":"7cda8d018f14e78d4890f2debb9ecf74",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"FigureCaption",
+      "element_id":"c1b309b100d0a3bc6415d2e025494db1",
+      "text":"Zdroj: Interní dokumentace FEK ZČU a IS STAG – Statistika přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":3,
+         "parent_id":"7cda8d018f14e78d4890f2debb9ecf74",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"UncategorizedText",
+      "element_id":"4e07408562bedb8b60ce05c1decfe3ad",
+      "text":"3",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":3,
+         "parent_id":"7cda8d018f14e78d4890f2debb9ecf74",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"b45b6412a120578aaaf0145748016738",
+      "text":"Nutnou podmínkou pro přijetí ke studiu v obou kolech přijímacího řízení bylo dosažení úplného středního vzdělání. U uchazečů, kteří absolvovali střední školu v zahraničí (s výjimkou Slovenské republiky), bylo nutnou podmínkou pro přijetí ke studiu také doložení znalosti českého jazyka minimálně v úrovni B2 Společného evropského referenčního rámce pro jazyky a předložení dokladu o nostrifikaci zahraničního středoškolského vzdělání v ČR, resp. kladné posouzení zahraničního středoškolského vzdělání pro účely přijímacího řízení na FEK ZČU. Tato povinnost byla pro cizince dle zákona č. 67/2022 upravena vyhláškou děkanky č. 1DV/2023.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "parent_id":"7cda8d018f14e78d4890f2debb9ecf74",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"b5c8f152c9266e77349ff7a41b7dc671",
+      "text":"Uchazečům, kteří splnili podmínky přijímacího řízení (dosáhli min. 25 bodů), ale nesplnili počet bodů stanovený přijímací komisí (Tabulka 1 a Tabulka 2), bylo zasláno rozhodnutí o nepřijetí z důvodu naplnění kapacity programu.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "parent_id":"7cda8d018f14e78d4890f2debb9ecf74",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"eff21ca2f5172f0a0d18e9179a39e8dc",
+      "text":"Uchazeč, který si podal více přihlášek a splnil/nesplnil podmínky přijímacího řízení, obdržel rozhodnutí o přijetí/nepřijetí ke studiu dle uvedených priorit na každou podanou přihlášku.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "parent_id":"7cda8d018f14e78d4890f2debb9ecf74",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"a062c6b50ca64dc97700e0f278bae830",
+      "text":"5. Kritéria pro přijetí ke studiu do navazujících magisterských studijních programů bez přijímací zkoušky",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"b3d6f650a86858a99c3ba7a6390df6c8",
+      "text":"Navazující magisterské studium – 1. kolo přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"1d2ef5a38082e2284c68910665a3d5f4",
+      "text":"Uchazeči byli přijímáni bez přijímací zkoušky. Pokud splnili podmínky stanovené vyhláškou děkanky č. 10DV/2022 podle čl. 5, odst. 4, fakulta jim garantovala přijetí do zvoleného studijního programu až do naplnění volné kapacity tohoto programu. Podmínkou pro automatické přijetí do zvolené formy studia bylo absolvování nebo studium posledního ročníku bakalářského, příp. magisterského studia a nepřekročení hodnoty 2,50 váženého studijního průměru za celé studium bakalářského nebo magisterského studijního programu v oborech vyjmenovaných v čl. 5, odst. 2 vyhlášky.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "parent_id":"b3d6f650a86858a99c3ba7a6390df6c8",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"5ee8be77341048427f6f517ca6200a1c",
+      "text":"Uchazeči, kteří nesplnili podmínky podle vyhlášky děkanky č. 10DV/2022, čl. 5, odst. 2 byli přijímáni ke studiu podle čl. 5, odst. 3 vyhlášky (přijetí v pořadí podle celkového počtu získaných bodů do naplnění volné kapacity studijních programů).",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "parent_id":"b3d6f650a86858a99c3ba7a6390df6c8",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"1eb8d817c66707d232ccd7863c0724be",
+      "text":"Na základě dokumentů, které uchazeči zaslali na studijní oddělení, jim byl na studijním oddělení spočítán celkový počet bodů podle vyhlášek a uchazeči byli seřazeni sestupně v pořadí podle celkového počtu bodů. S ohledem na kapacitu studijních programů stanovila přijímací komise pro přijetí do studijních programů minimální celkový počet bodů, hodnoty jsou uvedené v Tabulce 3. Minimální počet bodů pro přijetí stanovený vyhláškou byl 15.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "parent_id":"b3d6f650a86858a99c3ba7a6390df6c8",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"498d287fb666b6f18a1f6babedf789b1",
+      "text":"Tab. 3: Minimální hodnoty celkového počtu bodů pro přijetí do navazujících magisterských studijních programů (1. kolo přijímacího řízení)",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "parent_id":"b3d6f650a86858a99c3ba7a6390df6c8",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Table",
+      "element_id":"6a3490e00f0519c6e028adbbc4bac385",
+      "text":"Program Místo studia Forma studia Min. počet bodů pro přijetí N0413A050025 Projektové a procesní řízení N0532A330019 Ekonomická a regionální geografie N0413A050053 Podniková ekonomika a management N0413A050054 Informační management Plzeň Plzeň Plzeň Plzeň Plzeň prezenční prezenční prezenční kombinovaná prezenční 15 15 15 15 15",
+      "metadata":{
+         "text_as_html":"<table><thead><th>Program</th><th>Místo studia</th><th>Forma studia</th><th>Min. počet bodů pro v 1) přijetí</th></thead><tr><td>N0413A050025 ; : koRAEEU: Projektové a procesní řízení</td><td>M Plzeň</td><td>v prezenční</td><td></td></tr><tr><td>N0532A330019 mD PAU ; Ekonomická a regionální geografie</td><td>M Plzeň</td><td>v prezenční</td><td>15</td></tr><tr><td>N0413A050053</td><td>Plzeň</td><td>prezenční</td><td>15</td></tr><tr><td>Podniková ekonomika a management</td><td>Plzeň</td><td>kombinovaná</td><td></td></tr><tr><td>N0413A050054 Informační management</td><td>M Plzeň</td><td>v prezenční</td><td></td></tr></table>",
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "parent_id":"b3d6f650a86858a99c3ba7a6390df6c8",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"FigureCaption",
+      "element_id":"c1b309b100d0a3bc6415d2e025494db1",
+      "text":"Zdroj: Interní dokumentace FEK ZČU a IS STAG – Statistika přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "parent_id":"b3d6f650a86858a99c3ba7a6390df6c8",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"UncategorizedText",
+      "element_id":"4b227777d4dd1fc61c6f884f48641d02",
+      "text":"4",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":4,
+         "parent_id":"b3d6f650a86858a99c3ba7a6390df6c8",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"826c32a746d42d8b4f59688ce2d084dc",
+      "text":"Navazující magisterské studium – 2. kolo přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":5,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"615a383d3b684d37b5530f918d4d2701",
+      "text":"Druhé kolo přijímacího řízení bylo vyhlášeno v plzeňské části fakulty pro všechny studijní programy v prezenční formě studia. Podmínky přijímacího řízení byly uvedeny ve vyhlášce děkanky č. 4DV/2023.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":5,
+         "parent_id":"826c32a746d42d8b4f59688ce2d084dc",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"4cc26c2984d969943b7eaf4a1dd5e3ff",
+      "text":"Uchazeči byli přijímáni dle čl. 5, odst. 2 vyhlášky (přijetí v pořadí podle celkového počtu získaných bodů do naplnění volné kapacity studijních programů). Na základě dokumentů, které uchazeči zaslali na studijní oddělení, jim byl na studijním oddělení spočítán celkový počet bodů a uchazeči byli seřazeni sestupně v pořadí podle celkového počtu bodů. S ohledem na kapacitu studijních programů a s ohledem na počet uchazečů, kteří splnili podmínky pro přijetí, stanovila přijímací komise pro přijetí do studijních programů minimální celkový počet bodů (Tabulka 4). Minimální počet bodů pro splnění podmínek pro přijetí stanovený vyhláškou byl 15.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":5,
+         "parent_id":"826c32a746d42d8b4f59688ce2d084dc",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"c3f8d065c12ac1df2fff0bcbab5ab4d5",
+      "text":"Tab. 4: Minimální hodnoty celkového počtu bodů pro přijetí do navazujících magisterských studijních programů (2. kolo přijímacího řízení)",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":5,
+         "parent_id":"826c32a746d42d8b4f59688ce2d084dc",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Table",
+      "element_id":"879d3243c42bf632d0c11e8e5ee6347f",
+      "text":"Program Místo studia Forma studia Min. počet bodů pro přijetí N0413A050025 Projektové a procesní řízení N0532A330019 Ekonomická a regionální geografie N0413A050053 Podniková ekonomika a management N0413A050054 Informační management Plzeň Plzeň Plzeň Plzeň prezenční prezenční prezenční prezenční 24 15 28 20",
+      "metadata":{
+         "text_as_html":"<table><thead><th>Program</th><th>Místo studia</th><th>Forma studia</th><th>Min. počet bodů pro v přijetí</th></thead><tr><td>N0413A050025 : ň RE Projektové a procesní řízení</td><td>M Plzeň</td><td>' prezenční</td><td>24</td></tr><tr><td>N0532A330019 A PHO : Ekonomická a regionální geografie</td><td>M Plzeň</td><td>' prezenční</td><td>15</td></tr><tr><td>N0413A050053 um: ; Podniková ekonomika a management</td><td>M Plzeň</td><td>' prezenční</td><td>28</td></tr><tr><td>NO413A050054 Informační management</td><td>Plzeň</td><td>prezenční</td><td>20</td></tr></table>",
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":5,
+         "parent_id":"826c32a746d42d8b4f59688ce2d084dc",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"FigureCaption",
+      "element_id":"c1b309b100d0a3bc6415d2e025494db1",
+      "text":"Zdroj: Interní dokumentace FEK ZČU a IS STAG – Statistika přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":5,
+         "parent_id":"826c32a746d42d8b4f59688ce2d084dc",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"73e10747d7d66a1c49d207e3a1203aac",
+      "text":"Absolventi zahraničních VŠ byli povinni doložit úředně ověřenou kopii dokladu o splnění zkoušky z českého jazyka pro cizince v úrovni minimálně B2 Společného evropského referenčního rámce pro jazyky a úředně ověřenou kopii dokladu o nostrifikaci vysokoškolského vzdělání, resp. kladné posouzení zahraničního vysokoškolského vzdělání pro účely přijímacího řízení na FEK ZČU. Tato povinnost byla pro cizince dle zákona č. 67/2022 upravena vyhláškou děkanky č. 1DV/2023. Uchazečům, kteří nezaslali požadované dokumenty, bylo zasláno rozhodnutí o nepřijetí.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":5,
+         "parent_id":"826c32a746d42d8b4f59688ce2d084dc",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"e1da4c309abda4de3a46b87b260db23d",
+      "text":"Uchazečům, kteří splnili podmínky přijímacího řízení (dosáhli min. 15 bodů), ale nesplnili počet bodů stanovených přijímací komisí (Tabulka 3 a Tabulka 4), bylo zasláno rozhodnutí o nepřijetí z důvodu naplnění kapacity programu.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":5,
+         "parent_id":"826c32a746d42d8b4f59688ce2d084dc",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"eff21ca2f5172f0a0d18e9179a39e8dc",
+      "text":"Uchazeč, který si podal více přihlášek a splnil/nesplnil podmínky přijímacího řízení, obdržel rozhodnutí o přijetí/nepřijetí ke studiu dle uvedených priorit na každou podanou přihlášku.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":5,
+         "parent_id":"826c32a746d42d8b4f59688ce2d084dc",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"UncategorizedText",
+      "element_id":"ef2d127de37b942baad06145e54b0c61",
+      "text":"5",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":5,
+         "parent_id":"826c32a746d42d8b4f59688ce2d084dc",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"181e595f8c17beb9eab000ffd59e920b",
+      "text":"6. Přehled termínů přijímacího řízení pro akademický rok 2023/2024",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":6,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"1425aebe1ed2fe3fa52d7e6cd263c06d",
+      "text":"Tab. 5: Přehled termínů přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":6,
+         "parent_id":"181e595f8c17beb9eab000ffd59e920b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Table",
+      "element_id":"c15979f25ed85e93450bfb83c821e309",
+      "text":"Termín podání přihlášek ke studiu Termín zahájení a ukončení příjímacích zkoušek Termín vydání rozhodnutí o přijetí ke studiu 1. kolo přijímacího řízení Bakalářské studium 15. 4. 2023 X 22. 6. 2023 Navazující magisterské studium 15. 4. 2023 X 10. 7. 2023 Doktorské studium 31. 5. 2023 26. 6. 2023 4. 7. 2023 2. kolo přijímacího řízení Bakalářské studium 31. 7. 2023 X 29. 8. 2023 Navazující magisterské studium 31. 7. 2023 X 12. 9. 2023 Doktorské studium 31. 7. 2023 28. 8. 2023 31. 8. 2023 Termín vydání rozhodnutí o přezkoumání původního rozhodnutí 31. 7. až 7. 9. 2023 28. 8. 2023 25. 8. 2023 20. 9. až 26. 10. 2023 X X Termín pro dodání dokumentů pro potřeby přijímacího řízení 15. 4. 2023 15. 6. 2023 15. 6. 2023 31. 7. 2023 31. 7. 2023 12. 9. 2023 Termín dodání MV/diplomu 15. 6. 2023 30. 6. 2023 30. 6. 2023 31. 7. 2023 12. 9. 2023 12. 9. 2023 Termín k nahlédnutí do materiálů k přijímacímu řízení na vyžádání na vyžádání na vyžádání na vyžádání na vyžádání na vyžádání Termín skončení přijímacího řízení 20. 10. 2023 10. 10. 2023 3. 9. 2023 11. 12. 2023 16. 10. 2023 12. 9. 2023",
+      "metadata":{
+         "text_as_html":"<table><thead><th></th><th>ň e: Termín podání vLZx přihlášek ke . studiu</th><th>Termín 10“ zahájení a o ukončení vreí , příjímacích « zkoušek</th><th>Ť „ , Termín vydání Ť rozhodnutí aa o přijetí ke . studiu</th><th>| Termín vydání , rozhodnutí M 1“ o přezkoumání o p původního p rozhodnutí</th><th>Termín pro .“ dodání o dokumentů m pro potřeby viee e přijímacího P: řízení</th><th>Ť 1 Termín dodání . MV/diplomu</th><th>Termín , , k nahlédnutí KYAM do materiálů vee) , k přijímacímu E: řízení</th><th>Ť Termín Pe: skončení verr Ť přijímacího AU řízení</th></thead><tr><td colspan=\"9\">1. kolo přijímacího řízení</td></tr><tr><td>Poury: - Bakalářské studium</td><td>15. 4. 2023</td><td>X</td><td>22. 6. 2023</td><td>31.7. až 7. 9. 2023</td><td>15.4. 2023</td><td>15. 6. 2023</td><td>1140 na vyžádání</td><td>20. 10. 2023</td></tr><tr><td>Navazující magisterské studium</td><td>15. 4. 2023</td><td></td><td>10. 7. 2023</td><td>28. 8. 2023</td><td>15. 6. 2023</td><td>30. 6. 2023</td><td>na vyžádání</td><td>10. 10. 2023</td></tr><tr><td>Doktorské studium</td><td>31. 5. 2023</td><td>26. 6. 2023</td><td>4. 7. 2023</td><td>25. 8. 2023</td><td>15. 6. 2023</td><td>30. 6. 2023</td><td>na vyžádání</td><td>3. 9. 2023</td></tr><tr><td colspan=\"9\">2. kolo přijímacího řízení</td></tr><tr><td>Bakalářské studium</td><td>31. 7. 2023</td><td>X</td><td>29. 8. 2023</td><td>20. 9'23022Š6' 10.</td><td>31. 7. 2023</td><td>31. 7. 2023</td><td>na vyžádání</td><td>11. 12. 2023</td></tr><tr><td>Navazující - magisterské studium</td><td>31. 7. 2023</td><td>x</td><td>12. 9. 2023</td><td>x</td><td>31.7. 2023</td><td>12. 9. 2023</td><td>na vyžádání</td><td>16. 10. 2023</td></tr><tr><td>Doktorské studium</td><td>31. 7. 2023</td><td>28. 8. 2023</td><td>31. 8. 2023</td><td>X</td><td>12. 9. 2023</td><td>12. 9. 2023</td><td>na vyžádání</td><td>12. 9. 2023</td></tr></table>",
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":6,
+         "parent_id":"181e595f8c17beb9eab000ffd59e920b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"c1b309b100d0a3bc6415d2e025494db1",
+      "text":"Zdroj: Interní dokumentace FEK ZČU a IS STAG – Statistika přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":6,
+         "parent_id":"181e595f8c17beb9eab000ffd59e920b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"UncategorizedText",
+      "element_id":"e7f6c011776e8db7cd330b54174fd76f",
+      "text":"6",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":6,
+         "parent_id":"181e595f8c17beb9eab000ffd59e920b",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"5467335293da01233b9406616c012c95",
+      "text":"7. Zájem uchazečů o studium pro akademický rok 2023/2024",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":7,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"cd5d2bf5ca5d5c6dc8eda96010599d93",
+      "text":"Podrobné informace o počtech uchazečů podle studijních programů a studijních oborů stanovené vyhláškou MŠMT č. 343/2002 Sb. ve znění vyhlášky č. 276/2004 Sb. uvádí příloha č. 1. Následující Tabulka 6 uvádí vybrané souhrnné údaje podle studijních programů/oborů.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":7,
+         "parent_id":"5467335293da01233b9406616c012c95",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"f6de9a703d9871d2ae4146326fffc95c",
+      "text":"Tab. 6: Zájem uchazečů o studium na FEK ZČU (vybrané údaje podle studijních programů/oborů)",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":7,
+         "parent_id":"5467335293da01233b9406616c012c95",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Table",
+      "element_id":"1752fabd8cb7d4570199e00126fe6ee7",
+      "text":"Akreditovaný studijní program/obor FEK ZČU celkem B0413A050027 Projektové řízení B0413A050040 Podniková ekonomika a management, kombinovaná forma B0413A050040 Podniková ekonomika a management, prezenční forma B0414A050002 Marketingové řízení B0532A330036 Ekonomická a regionální geografie B6209 Systémové inženýrství a informatika** N0413A050025 Projektové a procesní řízení N0413A050053 Podniková ekonomika a management, kombinovaná forma N0413A050053 Podniková ekonomika a management, prezenční forma N0413A050054 Informační management N0532A330019 Ekonomická a regionální geografie Počet přihlášených uchazečů1) 2454 169 254 719 475 207 158 91 73 226 13 Počet přihlášených osob2) 1863* 169 236 719 462 203 158 83 73 197 12 Celkový počet přijatých uchazečů3) 1476 124 119 424 278 129 78 73 52 141 11 Celkový počet přijatých osob4) 1217* 124 116 424 274 129 78 73 52 141 11 Počet zapsaných uchazečů 844 63 80 185 147 72 49 50 33 120 6 Počet zapsaných osob 844* 63 80 185 147 72 49 50 33 120 6 56 51 39 39 32 32",
+      "metadata":{
+         "text_as_html":"<table><thead><th>Akreditovaný studijní program/obor</th><th>Počet přihlášených uchazečů?</th><th>Počet přihlášených osob?)</th><th>Celkový počet přijatých uchazečů?</th><th>Celkový počet Am u 4) přijatých osob</th><th>Počet zapsaných p „y uchazečů</th><th>Počet zapsaných přaný osob</th></thead><tr><td>FEK ZČU celkem</td><td>2454</td><td>1863*</td><td>1476</td><td>1217*</td><td>844</td><td>844*</td></tr><tr><td>804.13A0599,27 ň Projektové řízení</td><td>169</td><td>169</td><td>124</td><td>124</td><td>63</td><td>63</td></tr><tr><td>B0413A050040 Podniková ekonomika a management, kombinovaná forma</td><td>254</td><td>236</td><td>119</td><td>116</td><td>80</td><td>80</td></tr><tr><td>B0413A050040 Podniková ekonomika a management, prezenční forma</td><td>719</td><td>719</td><td>424</td><td>424</td><td>185</td><td>185</td></tr><tr><td>BMMA.OSOOQZ„ ň Marketingové řízení</td><td>475</td><td>462</td><td>278</td><td>274</td><td>147</td><td>147</td></tr><tr><td>80532A330936 0 zbní ' Ekonomická a regionální geografie</td><td>207</td><td>203</td><td>129</td><td>129</td><td>72</td><td>72</td></tr><tr><td>8620,9 L nný íÍ p Systémové inženýrství a informatika**</td><td>158</td><td>158</td><td>78</td><td>78</td><td>49</td><td>49</td></tr><tr><td>N04.13A059025 é Projektové a procesní řízení</td><td>91</td><td>83</td><td>73</td><td>73</td><td>50</td><td>50</td></tr><tr><td>N0413A050053 Podniková ekonomika a management, kombinovaná forma</td><td>73</td><td>73</td><td>52</td><td>52</td><td>33</td><td>33</td></tr><tr><td>N0413A050053 Podniková ekonomika a management, prezenční forma</td><td>226</td><td>197</td><td>141</td><td>141</td><td>120</td><td>120</td></tr><tr><td>N0413A050054 Informační management</td><td>13</td><td>12</td><td>11</td><td>11</td><td>6</td><td>6</td></tr><tr><td>NO532A330019 Ekonomická a regionální geografie</td><td>56</td><td>51</td><td>39</td><td>39</td><td>32</td><td>32</td></tr></table>",
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":7,
+         "parent_id":"5467335293da01233b9406616c012c95",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"UncategorizedText",
+      "element_id":"7902699be42c8a8e46fbbb4501726517",
+      "text":"7",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":7,
+         "parent_id":"5467335293da01233b9406616c012c95",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Table",
+      "element_id":"034b530bf65c686944877a7a887f203e",
+      "text":"Akreditovaný studijní program/obor P0413D050017 Economics and Management, kombinovaná forma P0413D050017 Economics and Management, prezenční forma P0413D050018 Ekonomika a management, kombinovaná forma P0413D050018 Ekonomika a management, prezenční forma Počet přihlášených uchazečů1) 1 1 7 4 Počet přihlášených osob2) 1 1 7 4 Celkový počet přijatých uchazečů3) 1 1 5 1 Celkový počet přijatých osob4) 1 1 5 1 Počet zapsaných uchazečů 1 1 4 1 Počet zapsaných osob 1 1 4 1",
+      "metadata":{
+         "text_as_html":"<table><thead><th>Akreditovaný studijní program/obor</th><th>Počet přihlášených uchazečů!</th><th>Počet přihlášených osob?!</th><th>Celkový počet přijatých uchazečů?</th><th>Celkový počet r0 vp 4) přijatých osob</th><th>Počet zapsaných p „y uchazečů</th><th>Počet zapsaných psaný osob</th></thead><tr><td>P0413D050017 Economics and Management, kombinovaná forma</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>P0413Dl_)50017 o Economics and Management, prezenční forma</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>P0413Dl?50018 | | Ekonomika a management, kombinovaná forma</td><td>7</td><td>7</td><td>5</td><td>5</td><td>A</td><td>A</td></tr><tr><td>P0413D050018 Ekonomika a management, prezenční forma</td><td>A</td><td>A</td><td>1</td><td>1</td><td>1</td><td>1</td></tr></table>",
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":8,
+         "parent_id":"5467335293da01233b9406616c012c95",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"43e1c57bb6bce9e9e5586b090f3c6c05",
+      "text":"Zdroj: IS STAG – Statistika přijímacího řízení Poznámky: * Hodnota není součtem jednotlivých níže uvedených řádků ** Uchazeči zapsání do BSP Informační management 1) Počet přihlášek ze všech kol přijímacího řízení 2) Počet přihlášených osob ze všech kol přijímacího řízení 3) Počet přijatých přihlášek včetně přihlášek přijatých po přezkumném řízení 4) Počet přijatých osob včetně osob přijatých po přezkumném řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":8,
+         "parent_id":"5467335293da01233b9406616c012c95",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"UncategorizedText",
+      "element_id":"2c624232cdd221771294dfbb310aca00",
+      "text":"8",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":8,
+         "parent_id":"5467335293da01233b9406616c012c95",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"5acf9d92163244dbfcf48c5ead8e536d",
+      "text":"8. Přehledové statistické informace o přijímacím řízení pro rok 2023/2024",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":9,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"ab4c24fb7a8a17da9b9bf634f7118c77",
+      "text":"Přehledové informace o přijímacím řízení obsahující základní statistické charakteristiky podle vyhlášky MŠMT č. 343/2002 Sb. ve znění vyhlášky č. 276/2004 Sb. jsou uvedené v Příloze č. 1.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":9,
+         "parent_id":"5acf9d92163244dbfcf48c5ead8e536d",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"d59976dd6dbe99da0ac9491e33824ecc",
+      "text":"Plzeň, 15. 12. 2023",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":9,
+         "parent_id":"5acf9d92163244dbfcf48c5ead8e536d",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"05016bd9fd61e482dcac4b02408d5b5f",
+      "text":"Ing. Jan Tlučhoř, Ph.D. proděkan pro studijní a pedagogické záležitosti",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":9,
+         "parent_id":"5acf9d92163244dbfcf48c5ead8e536d",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Title",
+      "element_id":"a0e1ebc6c46aceb66c80592398d00c46",
+      "text":"Seznam příloh:",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":9,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"73bf673296ec35ec0e562844f527d75d",
+      "text":"Příloha č. 1: Přehledové statistické informace o přijímacím řízení obsahující základní statistické charakteristiky podle vyhlášky MŠMT č. 343/2002 Sb. ve znění vyhlášky č. 276/2004 Sb.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":9,
+         "parent_id":"a0e1ebc6c46aceb66c80592398d00c46",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"UncategorizedText",
+      "element_id":"19581e27de7ced00ff1ce50b2047e7a5",
+      "text":"9",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":9,
+         "parent_id":"a0e1ebc6c46aceb66c80592398d00c46",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"NarrativeText",
+      "element_id":"73bf673296ec35ec0e562844f527d75d",
+      "text":"Příloha č. 1: Přehledové statistické informace o přijímacím řízení obsahující základní statistické charakteristiky podle vyhlášky MŠMT č. 343/2002 Sb. ve znění vyhlášky č. 276/2004 Sb.",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":10,
+         "parent_id":"a0e1ebc6c46aceb66c80592398d00c46",
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Image",
+      "element_id":"5264121371642b191ff8fa746512956f",
+      "text":"Počet Počet Počet Počet příjatých | Počet žádostío Počet přjatých | Celkový | - B Přijatých Celkový B - Kolo Počet Počet Splnili Nesplnili Počet Počet Škola Fakulta Studijní program Specialzace/Kombinace přijímacího přhBeenzšh přihlášených piibierfad m;: podmínky podlmky m přijatých žádostí o gž::'mm pm mmg p%gčt;g. p%.š' mw\\ggl zapsaných Z || 0S osob — zkoušky pro přietí : pro přietí je studiu | ke studiu | Přezkum | * \" řzení rektorovi řzení | uchazečů | osop | Vchaz zě 15457 10439 3547 9505 8780 2951 7247 5822 1067 284 802 0 7767 6188 5041 4969 zču 2454 1863 1402 446 1687 3 1410 1160 96 66 49 0 1476 1217 844 844 zču | FEK 169 169 124 ] 124 [] 124 124 2 o 2 o 124 124 63 63 BO0413A050027, M Projektové řízení, zČCU FEK typ=Bakalářský, 169 169 124 0 124 0 124 124 2 0 2 0 124 124 63 63 forma=Prezenční | protektově čiení; — BO413A050027/0,Projektové řízení, zCU © FEK t;.|])=Bakalářskýl' typ=Bakalářsl'(ý, fonm_=Prezenčn|', 169 169 124 0 124 0 124 124 2 0 2 0 124 124 63 63 forma=Prezenční místo=Plzeň zZČU | FEK 254 236 115 0 160 0 115 112 15 4 11 0 119 116 80 80 B0O413A050040, : Podniková ekonomika a zCU FEK management, 91 8o 53 0 57 0 %) 53 7 4 3 0 57 57 43 43 typ=Bakalářský, forma=Kombinovaná s r B0413A050040/1,Podniková ZČU | FEK management, e'(“\"ot';:zga\";š'áy'?\"'e\"t' 54 54 34 o 34 [] 34 34 2 o 2 o 34 34 24 24 typ=Bakalářský, „ ný AR zA omsno c forma=Kombinovaná, místo=Cheb PEE e B0413A050040/1,Podniková ZčU | FEK ekonomika a management, management, typ=Bakalářský, 37 37 19 0 23 0 19 19 =) 4 1 0 23 23 19 19 typ=Bakalářský, : o nA forma=Kombinovaná, místo=Cheb B0O413A050040, Ň Podniková ekonomika a zCU © FEK management, 163 163 62 0 103 0 62 62 8 0 8 0 62 62 37 37 typ=Bakalářský, forma=Kombinovaná",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":10,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Image",
+      "element_id":"2413e9b29d8dcc7dd8457f2ca38dfc75",
+      "text":"Kolo Počet_ Počet_ ! bez Dostavilo se k Splnili Nesplnili ug\\oaggtčů ':asob Počet PÉ::mpo Poč:;eš::nmo P?šl?l:t:unpo počet počet Poče_t Počeg Škola Fakulta Studijní program Specialzace/Kombinace přijímachho pilitišeen\\á:h přihlášených příímací | při.zkouškám podmínky | podmínky přístých | přijatých žádostí o přezkumném | postoupených | přezkumném | přijatých | přijatých čů řeení: | ucaz osob — zkoušky pro příjetí | pro přietí je studiu | ke studiu | Přezkum | * \" řízení rektorovi řízení — uchazečů | osob — vchaze osob z B0413A050040/1,Podniková ZčU | FEK management, eko\"ow\":ŽgaÉgř;%m\"t' 163 163 62 [] 103 0 62 62 8 [] 8 0 62 62 37 37 foxízškn?:\\mná forma=Kombinovaná, místo=Plzeň ZČU | FEK 719 719 406 [] 508 o 406 406 16 18 11 [] 424 424 185 185 B0413A050040, : Podniková ekonomika a ZČU | FEK management, 719 719 406 o 508 [] 406 406 16 18 11 [] 424 424 185 185 typ=Bakalářský, forma=Prezenční E B0413A050040/1,Podniková zčUu | FEK management, typí'g;'gggýa e 719 719 406 [] 508 0 406 406 16 18 11 ] 424 424 185 185 typ=Bakalářský, sto=plzeň ď forma=Prezenční měto—Plzeň ZČU | FEK 475 462 268 o 324 [] 268 265 21 10 17 [] 278 274 147 147 B0414A050002, Pa Marketingové řízení, ZČU | FEK typ=Bakalářský, 60 56 36 o 36 [] 36 36 o o o [] 36 36 20 20 forma=Prezenční Mgilg“gšg\"r%nů B0414A050002/0,Marketingové ZČU | FEK m=Bg|GBW řízení, typ=Bakalářský, 37 37 22 [:] 22 o 22 22 !] [] !] [] 22 22 12 12 EE forma=Prezenční, místo=Cheb : E B0414A050002/0,Marketingové ZČčU | FEK wp=agh5řský , řízení, typ=Bakalářský, 23 23 14 o 14 o 14 14 o o o [] 14 14 8 8 fonm=Prezenčr'1í forma=Prezenční, místo=Cheb B0414A050002, p Marketingové řízení, ZČU | FEK typ=Bakalářský, 415 415 232 o 288 o 232 232 21 10 17 [] 242 242 127 127 forma=Prezenční : N nzn h B0414A050002/0,Marketingové ZČčU | FEK typ=83mářský J řízení, typ=Bakalářský, 415 415 232 [] 288 [] 232 232 21 10 17 [] 242 242 127 127 sé forma=Prezenční, místo=Plzeň forma=Prezenční",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":11,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Image",
+      "element_id":"96bb0812f8613ec3017ddcd10c98501f",
+      "text":"zču zču zču zču zču zču zču zču zču Přijatých Počet Počet Počet přjatých | Počet žádostío Počet příistých | Celkový — Celkový Kolo Počet Počet bez Dostavilo se k Splái Nesphí Počet děkanem po přezkum rektorem po počet počet Počet Počet Specialzace/Kombinace MMMW mmmm\"mmmommmmmmhmmmm řzení — uchazečů | osob — Zkoušky pro příetí : propřietí je skudiu | ke studiu | Přezkum | \" \" řzení rektorovi řzení — uchazečů | osob | Uchazečů | osob 207 203 118 0 140 0 118 118 14 11 2) 0 129 129 72 72 BO0532A330036, Ekonomická a regionální geografie, 207 203 118 0 140 L 118 118 14 11 2) 0 129 129 72 72 typ=Bakalářský, forma=Prezenční B0532A330036, Ekonomická a regionální B0532A330036/1,Ekonomická a geografie, regionální geografie, typ=Bakalářský, 119 119 s88 [] 88 o 88 88 [] 0 o 0 88 88 42 42 typ=Bakalářský, forma=Prezenční, místo=Plzeň forma=Prezenční B0O532A330036, Ekonomická a regionální B0532A330036/1,Ekonomická a geografie, regionální geografie, typ=Bakalářský, 88 88 30 o 52 o 30 30 14 11 3 0 41 41 30 30 typ=Bakalářský, forma=Prezenční, místo=Plzeň forma=Prezenční 158 158 68 0 100 0 68 68 11 10 1 0 78 78 49 49 | _86_209,'Sy_stémové \"le'g';í“ašgš?gq'?m' 158 158 68 [) 100 [) 68 68 11 10 1 [] 78 78 49 49 forma=Prezenční B6209, Systémové ní Ntt ztýí 6209R015/0,Informační \"\"\"ě';í“„:..;'š“„\":y?““' management, typ=Bakalářský, 78 78 50 [] 50 o 50 50 o [] [] o 50 50 23 23 konramí č|'\\|' forma=Prezenční, místo=Plzeň „ „B6209, Systémové 6209R015/0,Informační ěe oBakakry, \" menagement, typ=Bakalářský, 8o 8o 18 [] 50 o 18 18 11 10 1 o 28 28 26 26 ez forma=Prezenční, místo=Plzeň 91 83 73 91 74 [] 73 73 [] [] [] o 73 73 50 50 NO413A050025, — Aně z n 91 83 73 91 74 [] 73 73 o o o o 73 73 50 50 řízení, typ=Navazující, forma=Prezenční",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":12,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Image",
+      "element_id":"1e0eeb5f8319108a0643110abee4143b",
+      "text":"eme e oeet Žh — postavilosek | „ Sph - Nespiní U chazečů děkanem rektorem počet — — počet Škola Fakulta Studijní program Specializace/Kombinace přijímacho | přihlášených — přihlášených | bez přijímací SE< podmínky — podmínky řiíjatýchke | Přijatýchke | žádostí o po toupených po jatých řijatýc řízení uchazečů osob přijzkouškém propřijetí — pro přijetí studu faemm) řízení uchazečů osob Ň NO413A050025, Projektové a NO413A050025/0,Projektové a procesní zČU | FEK procesní řízení, typ=Navazující, | řízení, typ=Navazující, forma=Prezenční, 69 69 54 69 54 o 54 54 o o o o 54 54 forma=Prezenční místo=Plzeň | Předmět — forma | Variantapředmětu — Zúčastněných uchazečů: Nejlepší možný výsledek: Nejlepší dosažený výsledek: Průměrný výsledek: Směrodatná odchylka Decilové hranice výsledku Přijetí bez př. zkoušek: Z Bc. studia neuvedeno 69 38 26.43 8.17 Přijetíbez př. zkoušek Z Bc. studia za všechny varianty předmětu 69 | | 38 | 26.43 | 8.17 Ň NO413A050025, Projektové a NO413A050025/0,Projektové a procesní zČU | FEK procesní řízení, typ=Navazujíc, | řízení, typ=Navazující, forma =Prezenční, 22 22 19 22 20 0 19 19 U] 0 0 0 19 19 forma=Prezenční místo=Plzeň | Předmět — forma | Variantapředmětu — Zúčastněných uchazečů: Nejlepší možný výsledek: Nejlepší dosažený výsledek Průměrný výsledek: Směrodatná odchylka: Decilové hranice výsledku Přijetí bez př. zkoušek Z Bc. studia neuvedeno 22 31 27.47 2.75 Přijetíbez př. zkoušek Z Bc. studia: za všechny varianty předmětu 22 31 27.47 2.75 zču | FEK 73 73 52 68 52 0 52 52 3 0 3 0 52 52 NO413A050053, Podniková zču | mx | Skonomika a manogement, 73 73 52 68 52 [] 52 52 3 o 3 o 52 52 typ=Navazující, forma=Kombinovaná NO413A050053, Podniková ekonomika a management, zču | FEK typ=Navazující, 73 73 52 68 52 o 52 52 3 o 3 o 52 52 forma=Kombinov. | Předmět — forma | Variantapředmětu — Zúčastněných uchazečů: Nejlepší možný výsledek: Nejlepší dosažený výsledek Průměrný výsledek Směrodatná odchylka: Decilové hranice výsledku Přijetíbez př. zkoušek Z Bc. studia neuvedeno 68 38 25.73 9.14 Přijetí bez př. zkoušek Z Bc. studia: za všechny varianty předmětu 68 38 25.73 9.14 zču | FEK 226 197 128 222 147 0 128 128 13 13 U] 0 141 141 NO413A050053, Podniková zču | mx | Sóonomika a management, 226 197 128 222 147 [] 128 128 13 13 [] o 141 141 typ=Navazující, forma=Prezenční NO413A050053, Podniková g u NO0413A050053/0,Podniková ekonomika a zčUu | FEK W“ management, typ=Navazující, 176 176 120 173 120 o 120 120 o o o [] 120 120 = á)rezenčr'í forma=Prezenční, místo =Plzeň Předmět — forma — Variantapředmětu — Zúčastněných uchazečů Nejlepší možný výsledek Nejlepší dosažený výsledek: Průměrný výsledek: Směrodatná odchylka | Decilové hranice výsledku Přijetíbez př. zkoušek Z Bc. studia neuvedeno 173 42 26.91 9.07 d1=21.54, d2=25.2, d3=26.76, d4=28. 18, d5=28.8, ds=30.0, d7=30.8, dg=32.0, ds=34. 16 Přijetí bez př. zkoušek Z Bc. studia za všechny varianty předmětu 173 42 26.91 9.07 d1=21.54, d2=25.2, d3=26.76, d4=28. 18, d5=28.8, ds=30.0, d7=30.8, dg=32.0, dg=34.16 NO413A050053, Podniková : B NO413A050053/0,Podniková ekonomika a zču | FEK dummmwt. management, typ=Navazující, 50 so 8 4 27 [] 8 8 13 13 [] o 21 21 fe *emu.'. forma=Prezenční, místo =Plzeň Predecí Ii I V medecí ]Z\"l\"ll mlni..-..llllniu.l-..Illlpn-..lllls-Il.llllni.l P úaleců Přijetíbez př. zkoušek Z Bc. studia neuvedeno 49 35 27.02 3.03 Přijetí bez př. zkoušek Z Bc. studia: za všechny varianty předmětu 49 35 27.02 3.03 * = EEE Ž „ řřř žž J : J ně lámu",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":13,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Image",
+      "element_id":"02b39b917ca20eb74bf2fc4d3b706837",
+      "text":"zču zču Specializace/Kombinace pmndn \\ přihlášených ||ňhium:h bezpi,-ao| Pe E NO0413A4050054, Informační FEK Ó management, typ=Navazující, forma=Prezenční NO413A050054, Informační NO413A050054/0,informační managemen: Splnii — Nesplnili podmínky — podmínky pro přijetí 11 3 přijetí Počet uchazečů přijatých ke studiu 11 Počet osob přijatých ke studiu 11 | FEK Ó management, typ=Navazující, typ=Navazující, fofma=Prezmau, 8 8 6 8 6 0 6 6 forma=Prezenční místo =Plzeň Předmět | forma — Varianta předmětu lwmlwmwlwwmlmmlwmlwmw] Přijetí bez př. zkoušek: Z Bc. studia neuvedeno 8 24.7 11.92 Přijetí bez př. zkoušek Z Bc. studia za všechny varianty předmětu 8 3s 24.7 11.92 NO413A050054, Informační NO413A050054/0,Informační management, FEK Ómanagement, typ=Navazující, typ=Navazující, forma=Prezenční, ) ) 5 A ) 0 5 5 forma=Prezenční místo =Plzeň | Předmět — forma © Varianta předmětu ]WMIWMM[WMM]MMIMMIWMMI Přijetí bez př. zkoušek Z Bc. studia neuvedeno 25.72 3.39 Přijetí bez př. zkoušek Z Bc. studia za všechny varianty předmětu S zo 25.72 3.39 FEK 56 51 39 52 39 0 39 39 NO0532A4330019, Ekonomická a regionální geografie, FEK typ=Navazující, 56 51 39 52 39 o 39 39 forma=Prezenční NO0532A4330019, Ekonomická a N NO0532A4330019/0,Ekonomická a regionální FEK mxg* geografie, typ=Navazujcí, 34 34 21 31 21 o 21 21 f =Prezenční forma=Prezenční, místo =Plzeň Předmět forma Přijetí bez př. zkoušek Z Bc. studia neuvedeno 31 Přijetí bez př. zkoušek Z Bc. studia za všechny varianty předmětu 31 NO0532A330019, Ekonomická a NO532A4330019/0,Ekonomická a regionální 24.39 24.39 12.8 12.8 l FEK regiončlní geografic, geografie, typ=Navazující, 22 22 18 21 18 o 18 18 opztaemcí forma=Prezenční, místo =Plzeň forma=Prezenční Předmět | forma — Variantapředmětu — Zúčastněných uchazečů Nejlepší možný výsledek: Nejlepší dosažený výsledek: Průměrný výsledek. Směrodatná odchylka Decilové hranice výsledku Přijetí bez př. zkoušek Z Bc. studia neuvedeno 21 31 27.42 3.38 Přijetí bez př. zkoušek: Z Bc. studia: za všechny varianty předmětu 21 31 27.42 3.38 PO413D050017, Economics and FEK Ó Management, typ=Doktorský, forma=Kombinovaná PO413D050017/0,Economics and Management, typ=Doktorský, forma=Kombinovaná, místo =Plzeň Počet žádostí o přezkum Počet přijatých 21 21 17",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":14,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"Image",
+      "element_id":"6f7969b7eac315102fb3752e79c66b57",
+      "text":"\\Šdn \\Fdllh Studijní program zču FEK Počet Početpřijatých — Počet žádostío — Počet přijatých Celkový Kolo Počet Počet Přijatých Splnili Nesplnili Početosob — Počet Počet Počet Specializace/Kombinace přijmacho | přihlášených — přihlášených | bez přijímací Ř_š\"\"\"li*ik podmínky — podmínky — zomucike Přijstýchké | žádostí o m k | ĚW**„ zapsaných — zapsaných řízení uchazečů osob propřijetí — pro přijetí studiu přezkum uchazečů osob řízení rektorovi řízení uchazečů 1 1 o o 1 0 1 H 0 L 0 o 1 1 1 PO413D050017, Economics and Management, typ=Doktorský, 1 1 o o 1 0 1 1 0 o 0 0 1 1 1 forma=Prezenční PO413D050017, Economics and PO413D050017/0,Economics and Management, typ=Doktorský, Management, typ=Doktorský, 1 1 o o 1 L] 1 1 o o o o 1 1 1 forma=Prezenční forma=Prezenční, místo =Plzeň 7 7 o o 5 1 5 5 o o o o 5 4 4 P0O413D050018, Ekonomika a management, typ=Doktorský, 7 7 o o 5 1 5 5 [] o o ] 5 4 4 forma=Kombinovaná PO413D050018, Ekonomika a P041300500 18/0,Ekonomika a management, typ=Doktorský, management, typ=Doktorský, 4 4 o o :) o 3 ] [] o U] U] 3 2 2 | forma=Kombinovaná | forma=Kombinovaná, místo =Plzeň PO413D050018, Ekonomika a P0O413D0500 18/0,Ekonomika a management, typ=Doktorský, management, typ=Doktorský, 3 d o o 2 1 2 2 o o 0 o 2 2 2 forma=Kombinovaná forma=Kombinovaná, místo =Plzeň 4 4 o o 1 2 1 1 1 o 1 o 1 1 1 PO4130050018, Ekonomika a management, typ=Doktorský, 4 4 [] 1] 1 2 1 1 1 o 1 U] 1 1 1 forma=Prezenční PO4130050018, Ekonomika a P041300500 18/0,Ekonomika a management, typ=Doktorský, management, typ=Doktorský, 4 4 o o 1 2 1 1 1 L] 1 o 1 1 1 forma=Prezenční forma=Prezenční, místo =Plzeň",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":15,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   },
+   {
+      "type":"FigureCaption",
+      "element_id":"1a445aa6cbdc0fe922bf3c6e7a46b39c",
+      "text":"Zdroj: IS STAG – Statistika přijímacího řízení",
+      "metadata":{
+         "filetype":"application/pdf",
+         "languages":[
+            "ces"
+         ],
+         "page_number":15,
+         "filename":"Zprava_o_PR 2023-24_FEK.pdf"
+      }
+   }
+]
